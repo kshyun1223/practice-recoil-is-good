@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "jsx": "react",
+    "target": "ES5",
+    "module": "commonjs",
+    "outDir": "./dist/",
+    "esModuleInterop":true,
+    "typeRoots": ["./node_modules/@types", "@types"],
+    "resolveJsonModule":true
+  },
+  "include": ["src/**/*", "src/global.d.ts"]
+}
