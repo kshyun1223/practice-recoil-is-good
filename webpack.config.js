@@ -38,12 +38,12 @@ module.exports = {
     extensions: ['.jsx', '.js','.ts','.tsx'],
   },
   devServer: {
-    static: path.resolve(__dirname, 'dist'),
+    static: path.resolve(__dirname, 'docs'),
     historyApiFallback: true,
     hot: true,
   },
   output: {
     filename: 'main.js',
-    path: path.resolve(__dirname, 'dist'),
+    path: path.resolve(__dirname, 'docs'),
   },
 };
