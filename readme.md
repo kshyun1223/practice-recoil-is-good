@@ -1,6 +1,6 @@
 # 리코일 공식문서 예제
 ### gh-pages 배포 주소
-[https://kshyun1223.github.io/urgent-recoil-practice/](https://kshyun1223.github.io/urgent-recoil-practice/)
+[https://kshyun1223.github.io/practice-recoil-is-good/](https://kshyun1223.github.io/practice-recoil-is-good)
 
 ### 폴더트리
 ```
